@@ -22,9 +22,9 @@ To avoid writing a bunch of parameter validation, the reporting api will return 
 - offset: 0
 
 All source code can be found in this repo in the following paths
-src/src/Command/*
-src/src/Controller/*
-src/src/Service/*
+- src/src/Command/*
+- src/src/Controller/*
+- src/src/Service/*
 
 # Build the container from scratch
 If your curious you can build the container from scratch with the following command
